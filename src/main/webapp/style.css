@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.scrollable{
+	height:200px;
+	overflow:scroll;
+}
